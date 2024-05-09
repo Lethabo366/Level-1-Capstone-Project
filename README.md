@@ -6,9 +6,9 @@ this was my final capstone project for the first part of web development in it i
 
 ## Instructions
 to download locally to your computer
-*click on code
-*click on download zip 
-*extract the zip file to your computer
-*open the index.html file to start the website
+* Click on code
+* Click on download zip 
+* extract the zip file to your computer
+* open the index.html file to start the website
 
 
